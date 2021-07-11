@@ -1,3 +1,8 @@
+001-PAGINA INÍCIO
+002-CONTATO
+003-IMAGEMS
+004-AUDIOS
+006-DOCUMENTOS
 - 👋 Hi, I’m @A-ItTheIndependente
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
